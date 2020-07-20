@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23211549-aaf1-4ad0-8d72-8b191ebd0a26" name="Default Changelist" comment="" />
+    <list default="true" id="23211549-aaf1-4ad0-8d72-8b191ebd0a26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +78,11 @@
               <item name="first" type="b2602c69:ProjectViewProjectNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="first" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,12 +120,12 @@
       <updated>1595230104629</updated>
       <workItem from="1595230133037" duration="593000" />
       <workItem from="1595230795985" duration="453000" />
-      <workItem from="1595231267583" duration="3234000" />
+      <workItem from="1595231267583" duration="3485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4280000" />
+    <option name="totallyTimeSpent" value="4531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="2002" height="1129" extended-state="0" />
