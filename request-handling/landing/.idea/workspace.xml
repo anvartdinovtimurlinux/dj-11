@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2857f5f4-f364-417f-947c-1823d985c50d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/templates/_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/templates/file_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/app/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/files/server.01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/files/server.02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/files/server.03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/res/result.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/static/css/materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/static/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/static/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_server/static/js/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/landing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/landing_alternate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/stats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/stats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animal-blur-close-up-840326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/app/templates/_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/app/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/data-398-2018-08-30.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/res/result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/static/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pagination/static/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../first/manage.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/landing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-36" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/landing_alternate.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/templates/stats.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-112" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="2002" />
+    <option name="height" value="1129" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="landing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="landing" type="Python.DjangoServer" factoryName="Django server">
+      <module name="landing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="app.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2857f5f4-f364-417f-947c-1823d985c50d" name="Default Changelist" comment="" />
+      <created>1595316026745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595316026745</updated>
+      <workItem from="1595316029963" duration="2707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2707000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="23" width="2002" height="1129" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32908913" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32908913" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32908913" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32908913" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/landing_alternate.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/_base.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/stats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112" />
+      </provider>
+    </entry>
+  </component>
+</project>
