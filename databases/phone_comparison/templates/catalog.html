@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% load static %}
+{% load field_filter %}
+
+{% block title %}Каталог{% endblock %}
+{% block content %}
+    <div class="container">
+        <div class="header">
+            <h1>Сравнение телефонов</h1>
+            <table class="table">
+            <tr>
+                <th>Модель</th>
+                {% for phone in  phones%}
+                    <th>{{ phone.name }}</th>
+                {% endfor %}
+            </tr>
+                {% for field in fields %}
+                    <tr>
+                        <td>{{ field }}</td>
+                        {% for phone in phones %}
+                            <td>{{ phone|field_filter:field }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+{% endblock %}

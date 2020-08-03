@@ -1,0 +1,8 @@
+<div class="card" style="width: 18rem;">
+  <img src="{{ phone.image }}" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">{{ phone.name }}</p>
+    <p class="card-text">{{ phone.price }}</p>
+    <a href="{% url 'slug-catalog' phone.slug %}" class="btn btn-link" role="button">На страницу товара</a>
+  </div>
+</div>

@@ -1,0 +1,12 @@
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        {% if paginator.has_previous %}
+            {% url 'page-view' paginator.previous_page_number as previous_url %}
+            <li class="page-item"><a class="page-link" href="{{ previous_url }}">предыдущий</a></li>
+        {% endif %}
+        {% if paginator.has_next %}
+            {% url 'page-view' paginator.next_page_number as next_url %}
+            <li class="page-item"><a class="page-link" href="{{ next_url }}">следующий</a></li>
+        {% endif %}
+    </ul>
+</nav>
